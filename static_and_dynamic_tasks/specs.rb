@@ -1,5 +1,5 @@
 require_relative 'card.rb'
-require_relative 'testing_task_2.rb'
+require_relative 'testing_task_1.rb'
 require 'minitest/autorun'
 
 class TestCard < Minitest::Test
